@@ -1,4 +1,4 @@
-package io.github.septianrin.Jecko.ui.theme
+package io.github.septianrin.jecko.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

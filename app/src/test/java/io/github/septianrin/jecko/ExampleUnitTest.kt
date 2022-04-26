@@ -1,4 +1,4 @@
-package io.github.septianrin.Jecko
+package io.github.septianrin.jecko
 
 import org.junit.Test
 

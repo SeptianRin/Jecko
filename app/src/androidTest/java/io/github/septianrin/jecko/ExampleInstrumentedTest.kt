@@ -1,4 +1,4 @@
-package io.github.septianrin.Jecko
+package io.github.septianrin.jecko
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
